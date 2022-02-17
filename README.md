@@ -2,11 +2,7 @@
 
 _A 'boring' proxy client for Hass.io to expose home assistant behind NAT or firewall on the internet._
 
-![Supports aarch64 Architecture][aarch64-shield]
-![Supports amd64 Architecture][amd64-shield]
-![Supports armhf Architecture][armhf-shield]
 ![Supports armv7 Architecture][armv7-shield]
-![Supports i386 Architecture][i386-shield]
 
 [aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
