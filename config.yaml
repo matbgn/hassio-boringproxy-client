@@ -1,6 +1,6 @@
 name: "Hass.io Boringproxy client"
 description: "A 'boring' proxy client for Hass.io to expose home assistant behind NAT or firewall on the internet."
-version: "0.0.2"
+version: "0.0.3"
 slug: "hassio-boringproxy-client"
 stratup: application
 host_network: true
