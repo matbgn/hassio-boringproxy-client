@@ -7,6 +7,4 @@ CLIENT_NAME=$(bashio::config 'client_name')
 wget https://files.apitman.com/public/boringproxy/raw-tls/boringproxy-linux-arm
 mv boringproxy* boringproxy
 chmod +x boringproxy
-echo SERVER_URL
-echo TOKEN
-./boringproxy client -server SERVER_URL -token TOKEN -client-name CLIENT_NAME
+./boringproxy client -server ${SERVER_URL} -token ${TOKEN} -client-name ${CLIENT_NAME}
