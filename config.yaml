@@ -13,7 +13,7 @@ options:
   user: admin
   acme_email: john@example.com
 schema:
-  server_url: url
+  server_url: str
   token: str
   client_name: str
   user: str
